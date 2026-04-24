@@ -1,4 +1,4 @@
-### ⚠️ Descripción   
+### ⚠️ Descripción del incidente.   
 
 La empresa ficticia **Yummy Recipes For Me** sufrió un ataque de denegación de servicio (DoS) provocado por una avalancha de paquetes ICMP, originada por una configuración incorrecta del firewall. Este incidente interrumpió los servicios de red durante aproximadamente dos horas.
 
