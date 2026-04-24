@@ -79,11 +79,11 @@ El servidor DNS no estaba aceptando solicitudes en el puerto UDP 53.
 
 ### 📚 Framework Alignment  
 El manejo del incidente se alinea con el **NIST Cybersecurity Framework (CSF)**:  
-- **Identify**  
-- **Protect**  
-- **Detect**  
-- **Respond**  
-- **Recover**  
+- **Identificar**  
+- **Proteger**  
+- **Detectar**  
+- **Responder**  
+- **Recuperar**  
 
 ---
 
