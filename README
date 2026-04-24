@@ -1,3 +1,0 @@
-La empresa ficticia "Yummie recipes for me" sufrió un ataque DoS mediante una avalancha de paquetes ICMP debido a una configuración incorrecta del firewall, lo que interrumpió los servicios de red durante dos
-horas. En el siguiente reporte se indican las estrategía que se utilizaron para mitigar 
-
