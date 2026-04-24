@@ -1,0 +1,8 @@
+La empresa sufrió un ataque DoS mediante una avalancha de paquetes ICMP debido a una
+configuración incorrecta del firewall, lo que interrumpió los servicios de red durante dos
+horas. El incidente fue contenido bloqueando el tráfico ICMP y restableciendo los servicios
+críticos. Posteriormente, se implementaron mejoras como limitación de tasa de paquetes,
+verificación de IP (anti-spoofing), monitoreo de red e implementación de IDS/IPS. Con base
+en el marco NIST CSF, se fortalecieron los procesos de identificación, protección, detección,
+respuesta y recuperación para prevenir incidentes similares en el futuro.
+
