@@ -5,7 +5,7 @@
 
 ---
 
-## 📄 Cybersecurity Incident Report – Network Traffic Analysis  
+# 📄 Cybersecurity Incident Report: DNS Failure Analysis  
 
 <!-- BADGES -->
 <p align="left">
