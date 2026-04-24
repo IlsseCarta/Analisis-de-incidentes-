@@ -1,5 +1,21 @@
-<h1 📄 Incidente de Seguridad en la empresa "Yummy Recipes for me". </h1>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Cybersecurity%20Incident%20Report&fontSize=35&fontColor=ffffff" />
+</p>
 
+---
+
+## 📄 Cybersecurity Incident Report – Network Traffic Analysis  
+
+<!-- BADGES -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Type-Incident%20Response-blue" />
+  <img src="https://img.shields.io/badge/Focus-Network%20Analysis-green" />
+  <img src="https://img.shields.io/badge/Framework-NIST%20CSF-orange" />
+  <img src="https://img.shields.io/badge/Status-Resolved-success" />
+</p>
+
+---
 
 ### 🔎 Overview  
 Análisis de un incidente de disponibilidad que afectó el acceso al sitio web **Yummy Recipes For Me**, causado por una falla en la resolución DNS a nivel de red.
@@ -23,10 +39,15 @@ Se realizó captura y análisis de tráfico de red utilizando **tcpdump**, enfoc
 - Error identificado: **"UDP port 53 unreachable"**  
 - No se logró resolver el dominio → falla previa a HTTPS  
 
-**Protocolos involucrados:**
-- UDP (capa de transporte)  
-- DNS (capa de aplicación)  
-- ICMP (mensajes de error)  
+---
+
+### 🛠️ Tools Used  
+<p>
+  <img src="https://img.shields.io/badge/tcpdump-Network%20Sniffer-blue?logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNS-Protocol-red"/>
+  <img src="https://img.shields.io/badge/ICMP-Network%20Diagnostics-lightgrey"/>
+</p>
 
 ---
 
@@ -58,14 +79,21 @@ El servidor DNS no estaba aceptando solicitudes en el puerto UDP 53.
 
 ### 📚 Framework Alignment  
 El manejo del incidente se alinea con el **NIST Cybersecurity Framework (CSF)**:  
-- **Identify:** Detección del fallo en resolución DNS  
-- **Protect:** Configuración segura de servicios y firewall  
-- **Detect:** Análisis de tráfico con herramientas de red  
-- **Respond:** Corrección del servicio y mitigación  
-- **Recover:** Restauración de la disponibilidad del sistema  
+- **Identify**  
+- **Protect**  
+- **Detect**  
+- **Respond**  
+- **Recover**  
 
 ---
 
-<h69 🔗 Full Report  </h69>
+### 🔗 Full Report  
 Consulta el reporte completo aquí:  
 https://drive.google.com/drive/folders/1Z6YwGpcppxfuHjABQTTnaxhWu7jE_6nk?usp=drive_link  
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
